@@ -1,0 +1,6 @@
+title: "User Guide"
+icon: "lucide:user"  
+navigation.redirect: "/docs/home"
+sidebar:
+  style: "default"  
+collapse: false 

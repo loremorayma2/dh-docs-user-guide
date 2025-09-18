@@ -1,0 +1,9 @@
+title: "Getting Started"
+icon: "lucide:folder"  
+navigation.redirect: "/docs/getting-started/introduction"
+navBadges:
+  - value: New
+    type: neutral
+sidebar:
+  style: "default"  
+collapse: false
