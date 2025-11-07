@@ -34,6 +34,7 @@ export default defineAppConfig({
     main: {
       breadCrumb: true,
       showTitle: true,
+      backToTop: false, 
     },
     footer: {
       credits: 'Digital Harbor – DOT © 2025',
