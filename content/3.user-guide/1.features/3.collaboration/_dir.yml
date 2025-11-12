@@ -1,0 +1,6 @@
+title: "Colaboración"
+icon: "lucide:users"
+navigation.redirect: /user-guide/features/collaboration/sharing
+sidebar:
+  style: "default"  
+collapse: false 

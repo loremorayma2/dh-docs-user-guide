@@ -1,6 +1,0 @@
-title: "Features"
-icon: "lucide:layers"  
-navigation.redirect: "/docs/home"
-sidebar:
-  style: "default"  
-collapse: false 

@@ -1,0 +1,6 @@
+title: "Developer Guide"
+icon: "lucide:code"
+navigation.redirect: /developer-guide/api-integration
+sidebar:
+  style: "default"  
+collapse: false 

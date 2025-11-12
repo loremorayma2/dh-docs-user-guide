@@ -1,5 +1,3 @@
-import { TruckElectricIcon } from "lucide-vue-next";
-
 export default defineAppConfig({
   shadcnDocs: {
     site: {
@@ -16,10 +14,12 @@ export default defineAppConfig({
       showTitle: true,
       darkModeToggle: true,
       languageSwitcher: {
-        enable: false,
+        enable: true,
         triggerType: 'icon',
+        icon: 'lucide:translate',
         dropdownType: 'select',
       },
+
       logo: {
         light: '/logo-light.svg',
         dark: '/logo-dark.svg'
@@ -32,7 +32,7 @@ export default defineAppConfig({
       collapse: false,
     },
     main: {
-      breadCrumb: true,
+      breadcrumb: true,
       showTitle: true,
       backToTop: false, 
     },
@@ -69,6 +69,7 @@ export default defineAppConfig({
       enable: true,
       inAside: false,
     },
+   
    
   }
 });

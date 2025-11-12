@@ -1,6 +1,0 @@
-title: "Developer Guide"
-icon: "lucide:code"  
-navigation.redirect: "/docs/home"
-sidebar:
-  style: "default"  
-collapse: false 

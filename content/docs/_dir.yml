@@ -1,6 +1,0 @@
-title: "Docs DOT APP"
-icon: "lucide:book"  
-navigation.redirect: "/docs/home"
-sidebar:
-  style: "default"  
-collapse: false 

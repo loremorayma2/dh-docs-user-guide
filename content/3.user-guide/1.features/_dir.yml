@@ -1,0 +1,6 @@
+title: "Features"
+icon: "lucide:layers"
+navigation.redirect: /user-guide/features/capture-screenshots/create-dot
+sidebar:
+  style: "default"  
+  collapse: false 

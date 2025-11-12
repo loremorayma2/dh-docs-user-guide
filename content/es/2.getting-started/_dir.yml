@@ -1,0 +1,9 @@
+title: "Primeros Pasos"
+icon: "lucide:folder"
+navigation.redirect: /es/getting-started/introduction
+navBadges:
+  - value: New
+    type: neutral
+sidebar:
+  style: "default"  
+collapse: false
