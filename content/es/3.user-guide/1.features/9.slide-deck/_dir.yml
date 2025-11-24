@@ -1,0 +1,6 @@
+title: "Presentación de Diapositivas"
+icon: "lucide:slideshow"
+navigation.redirect: /user-guide/features/dot-kit/kit
+sidebar:
+  style: "default"
+collapse: true
