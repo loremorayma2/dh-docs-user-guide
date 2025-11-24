@@ -1,6 +1,6 @@
 title: "User Guide"
 icon: "lucide:user"
-navigation.redirect: /user-guide/features/capture-screenshots/create-dot
+navigation.redirect: /user-guide/features/
 sidebar:
   style: "default"  
 collapse: false 

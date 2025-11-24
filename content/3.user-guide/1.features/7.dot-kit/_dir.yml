@@ -1,0 +1,6 @@
+title: "DOT Kit"
+icon: "lucide:package"
+navigation.redirect: /user-guide/features/dot-kit/kit
+sidebar:
+  style: "default"  
+collapse: true 

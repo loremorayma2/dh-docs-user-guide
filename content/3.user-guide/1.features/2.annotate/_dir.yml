@@ -1,6 +1,0 @@
-title: "Anotar"
-icon: "lucide:pencil"
-navigation.redirect: /user-guide/features/annotate/annotations
-sidebar:
-  style: "default"  
-collapse: false 

@@ -1,6 +1,14 @@
 title: "Features"
 icon: "lucide:layers"
-navigation.redirect: /user-guide/features/capture-screenshots/create-dot
+navigation:
+  title: "All Features"
+  redirect: /user-guide/features/create-dot/create-dot
+
 sidebar:
   style: "default"  
   collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

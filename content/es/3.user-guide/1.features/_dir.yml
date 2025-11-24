@@ -1,6 +1,14 @@
-title: "Funciones"
+title: "Características"
 icon: "lucide:layers"
-navigation.redirect: /user-guide/features/capture-screenshots
+navigation:
+  title: "Todas las Características"
+  redirect: /user-guide/features/create-dot/create-dot
+
 sidebar:
-  style: "default"  
-collapse: false 
+  style: "default"
+  collapse: false
+
+tags:
+  - características
+  - punto
+  - herramientas
