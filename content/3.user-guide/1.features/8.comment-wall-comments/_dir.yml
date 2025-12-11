@@ -1,6 +1,6 @@
 title: "Comment Wall & Comments"
 icon: "lucide:messages-square"
-navigation.redirect: /user-guide/features/comment-wall-Comments/comments
+navigation.redirect: /user-guide/features/comment-wall-Comments/real-time-comments
 sidebar:
   style: "default"  
 collapse: true

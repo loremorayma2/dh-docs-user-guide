@@ -1,6 +1,6 @@
 title: "Slide Deck"
 icon: "lucide:slideshow"
-navigation.redirect: /user-guide/features/dot-kit/kit
+navigation.redirect: /user-guide/features/slide-deck/slide
 sidebar:
   style: "default"  
 collapse: true

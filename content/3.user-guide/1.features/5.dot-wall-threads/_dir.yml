@@ -1,6 +1,6 @@
 title: "Dot Wall Threads"
 icon: "lucide:messages-square"
-navigation.redirect: /user-guide/features/dot-wall-threads/threads
+navigation.redirect: /user-guide/features/dot-wall-threads/create-wall-thread
 sidebar:
   style: "default"  
 collapse: true 
