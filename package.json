@@ -8,9 +8,9 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
-    
   },
   "dependencies": {
+    "@iconify-json/lucide": "^1.2.80",
     "lucide-vue-next": "^0.542.0",
     "nuxt": "^3.17.6",
     "shadcn-docs-nuxt": "^1.1.1",

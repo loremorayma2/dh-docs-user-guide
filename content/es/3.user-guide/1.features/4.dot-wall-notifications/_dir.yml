@@ -1,6 +1,0 @@
-title: "Notificaciones del Muro de Dots"
-icon: "lucide:bell-dot"
-navigation.redirect: /user-guide/features/dot-wall-notifications/notifications
-sidebar:
-  style: "default"
-collapse: true

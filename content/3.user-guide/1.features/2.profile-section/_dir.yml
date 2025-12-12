@@ -1,6 +1,0 @@
-title: "Profile Section"
-icon: "lucide:pencil"
-navigation.redirect: /user-guide/features/profile-section/profile
-sidebar:
-  style: "default"  
-collapse: true 

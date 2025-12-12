@@ -1,6 +1,0 @@
-title: "User Guide"
-icon: "lucide:user"
-navigation.redirect: /user-guide/features/
-sidebar:
-  style: "default"  
-collapse: false 

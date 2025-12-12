@@ -1,6 +1,0 @@
-title: "Muro de Comentarios y Comentarios"
-icon: "lucide:messages-square"
-navigation.redirect: /user-guide/features/comment-wall-Comments/comments
-sidebar:
-  style: "default"  
-collapse: true

@@ -1,6 +1,0 @@
-title: "Anotaciones"
-icon: "lucide:sticky-note"
-navigation.redirect: /user-guide/features/annotations/annotations
-sidebar:
-  style: "default"
-collapse: true

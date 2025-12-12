@@ -1,0 +1,14 @@
+title: "Download for Desktop"
+icon: "lucide:laptop"
+navigation:
+  title: "Download for Desktop"
+  redirect: /download/desktop/windows
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

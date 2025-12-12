@@ -1,0 +1,6 @@
+title: "Slide Deck"
+icon: "lucide:layers"
+navigation.redirect: /getting-started/user-guide/features/slide-deck/slide
+sidebar:
+  style: "default"  
+collapse: true

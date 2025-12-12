@@ -1,7 +1,0 @@
-title: "Crear un DOT"
-icon: "lucide:camera"
-navigation:
-  redirect: /user-guide/features/create-dot/create-dot
-sidebar:
-  style: "default"
-  collapse: false

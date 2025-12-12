@@ -39,28 +39,13 @@ export default defineAppConfig({
     footer: {
       credits: 'Digital Harbor – DOT © 2025',
       links: [
-        {
-          icon: 'lucide:twitter',
-          to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-          target: '_blank',
-        },
-        {
-          icon: 'lucide:instagram',
-          to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-          target: '_blank',
-        },
-        {
-          icon: 'lucide:linkedin',
-          to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-          target: '_blank',
-        },
-        {
-          icon: 'lucide:facebook',
-          to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-          target: '_blank',
-        }
-      ],
+        { icon: 'lucide:twitter', to: 'https://x.com/Digital_Harbor', target: '_blank' },
+        { icon: 'lucide:instagram', to: 'https://www.instagram.com/digitalharborbolivia/?hl=es', target: '_blank' },
+        { icon: 'lucide:linkedin', to: 'https://www.linkedin.com/company/digitalharborbolivia', target: '_blank' },
+        { icon: 'lucide:facebook', to: 'https://www.facebook.com/digitalharborBO', target: '_blank' }
+      ]
     },
+
     toc: {
       enable: true,
       links: [ ],
