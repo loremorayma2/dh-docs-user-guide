@@ -1,12 +1,12 @@
-title: "API Reference"
+title: "Referencia de API"
 icon: "lucide:link-2"
 navigation:
-  title: "API Reference"
+  title: "Referencia de API"
   redirect: /developer-guide/api-reference/endpoints
 
 sidebar:
-  style: "default"  
-  collapse: false 
+  style: "default"
+  collapse: false
 
 tags:
   - features

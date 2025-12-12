@@ -1,12 +1,12 @@
-title: "Download"
+title: "Descargar"
 icon: "lucide:download"
 navigation:
-  title: "Download"
+  title: "Descargar"
   redirect: /download/init
 
 sidebar:
-  style: "default"  
-  collapse: false 
+  style: "default"
+  collapse: false
 
 tags:
   - features

@@ -1,12 +1,12 @@
-title: "Developer Guide"
+title: "Guía del Desarrollador"
 icon: "lucide:code"
 navigation:
-  title: "Developer Guide"
+  title: "Guía del Desarrollador"
   redirect: /developer-guide/integration-api
 
 sidebar:
-  style: "default"  
-  collapse: false 
+  style: "default"
+  collapse: false
 
 tags:
   - features

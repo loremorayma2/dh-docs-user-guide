@@ -1,7 +1,7 @@
-title: "Getting Started"
+title: "Inicio Rápido"
 icon: "lucide:rocket"
 navigation:
-  title: "Getting Started"
+  title: "Inicio Rápido"
   redirect: /getting-started/home
 
 sidebar:
@@ -9,6 +9,6 @@ sidebar:
   collapse: false 
 
 tags:
-  - features
+  - funcionalidades
   - dot
-  - tools
+  - herramientas

@@ -1,7 +1,7 @@
-title: "Features"
+title: "Guía de Usuario"
 icon: "lucide:layers"
 navigation:
-  title: "User Guide"
+  title: "Guía de Usuario"
   redirect: /getting-started/user-guide/create-dot
 
 sidebar:

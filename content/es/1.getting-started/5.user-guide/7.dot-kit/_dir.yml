@@ -1,6 +1,7 @@
-title: "DOT Kit"
+title: "Kit DOT"
 icon: "lucide:package"
-navigation.redirect: /getting-started/user-guide/dot-kit/grouped-annotations
+navigation:
+  redirect: /getting-started/user-guide/dot-kit/grouped-annotations
 sidebar:
-  style: "default"  
-collapse: true 
+  style: "default"
+  collapse: true

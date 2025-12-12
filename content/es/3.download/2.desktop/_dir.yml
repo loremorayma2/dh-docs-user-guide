@@ -1,12 +1,12 @@
-title: "Download for Desktop"
+title: "Descargar para Escritorio"
 icon: "lucide:laptop"
 navigation:
-  title: "Download for Desktop"
+  title: "Descargar para Escritorio"
   redirect: /download/desktop/windows
 
 sidebar:
-  style: "default"  
-  collapse: false 
+  style: "default"
+  collapse: false
 
 tags:
   - features

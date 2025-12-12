@@ -1,6 +1,7 @@
-title: "Slide Deck"
+title: "Presentación de Diapositivas"
 icon: "lucide:layers"
-navigation.redirect: /getting-started/user-guide/features/slide-deck/slide
+navigation:
+  redirect: /getting-started/user-guide/features/slide-deck/slide
 sidebar:
-  style: "default"  
-collapse: true
+  style: "default"
+  collapse: true
