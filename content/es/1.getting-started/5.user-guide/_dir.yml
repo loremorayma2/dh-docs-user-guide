@@ -1,0 +1,14 @@
+title: "Guía de Usuario"
+icon: "lucide:layers"
+navigation:
+  title: "Guía de Usuario"
+  redirect: /getting-started/user-guide/create-dot
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

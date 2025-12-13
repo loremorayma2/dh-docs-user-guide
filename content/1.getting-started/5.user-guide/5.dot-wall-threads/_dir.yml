@@ -1,0 +1,6 @@
+title: "Dot Wall Threads"
+icon: "lucide:messages-square"
+navigation.redirect: /getting-started/user-guide/dot-wall-threads/create-wall-thread
+sidebar:
+  style: "default"  
+collapse: true 
