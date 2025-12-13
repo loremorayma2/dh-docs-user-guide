@@ -1,7 +1,0 @@
-title: "Notificaciones de Dot Wall"
-icon: "lucide:bell-dot"
-navigation:
-  redirect: /getting-started/user-guide/dot-wall-notifications/dot-wall-search
-sidebar:
-  style: "default"
-  collapse: true
