@@ -1,0 +1,14 @@
+title: "Download for Mobile"
+icon: "lucide:smartphone"
+navigation:
+  title: "Download for Mobile"
+  redirect: /download/mobile/android
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

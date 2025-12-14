@@ -1,0 +1,14 @@
+title: "Descargar para Móvil"
+icon: "lucide:smartphone"
+navigation:
+  title: "Descargar para Móvil"
+  redirect: /download/mobile/android
+
+sidebar:
+  style: "default"
+  collapse: false
+
+tags:
+  - features
+  - dot
+  - tools

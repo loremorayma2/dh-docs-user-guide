@@ -1,0 +1,14 @@
+title: "Descargar la Extensión del Navegador"
+icon: "lucide:chrome"
+navigation:
+  title: "Descargar la Extensión del Navegador"
+  redirect: /download/browser/chrome
+
+sidebar:
+  style: "default"
+  collapse: false
+
+tags:
+  - features
+  - dot
+  - tools

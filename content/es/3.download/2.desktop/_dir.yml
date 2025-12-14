@@ -1,0 +1,14 @@
+title: "Descargar para Escritorio"
+icon: "lucide:laptop"
+navigation:
+  title: "Descargar para Escritorio"
+  redirect: /download/desktop/windows
+
+sidebar:
+  style: "default"
+  collapse: false
+
+tags:
+  - features
+  - dot
+  - tools

@@ -1,0 +1,14 @@
+title: "Features"
+icon: "lucide:layers"
+navigation:
+  title: "User Guide"
+  redirect: /getting-started/user-guide/create-dot
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools
