@@ -1,0 +1,14 @@
+title: "Inicio Rápido"
+icon: "lucide:rocket"
+navigation:
+  title: "Inicio Rápido"
+  redirect: /getting-started/home
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - funcionalidades
+  - dot
+  - herramientas

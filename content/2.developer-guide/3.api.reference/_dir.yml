@@ -1,0 +1,14 @@
+title: "API Reference"
+icon: "lucide:link-2"
+navigation:
+  title: "API Reference"
+  redirect: /developer-guide/api-reference/endpoints
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

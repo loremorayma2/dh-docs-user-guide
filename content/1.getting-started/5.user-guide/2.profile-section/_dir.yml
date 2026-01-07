@@ -1,0 +1,6 @@
+title: "Profile Section"
+icon: "lucide:pencil"
+navigation.redirect: /getting-started/user-guide/profile-section/profile
+sidebar:
+  style: "default"  
+collapse: true 

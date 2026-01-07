@@ -1,0 +1,14 @@
+title: "Developer Guide"
+icon: "lucide:code"
+navigation:
+  title: "Developer Guide"
+  redirect: /developer-guide/integration-api
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

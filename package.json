@@ -1,0 +1,25 @@
+{
+  "name": "shadcn-docs-nuxt-starter",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@iconify-json/lucide": "^1.2.80",
+    "lucide-vue-next": "^0.542.0",
+    "nuxt": "^3.17.6",
+    "shadcn-docs-nuxt": "^1.1.1",
+    "vue": "^3.5.17",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@iconify-json/fluent-emoji-flat": "^1.2.5",
+    "@iconify-json/logos": "^1.2.10",
+    "@iconify-json/twemoji": "^1.2.4"
+  }
+}

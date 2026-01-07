@@ -1,0 +1,14 @@
+title: "Descargar"
+icon: "lucide:download"
+navigation:
+  title: "Descargar"
+  redirect: /download/init
+
+sidebar:
+  style: "default"
+  collapse: false
+
+tags:
+  - features
+  - dot
+  - tools

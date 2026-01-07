@@ -1,0 +1,6 @@
+title: "Dot Wall Filters"
+icon: "lucide:filter"
+navigation.redirect: /getting-started/user-guide/dot-wall-filters/all
+sidebar:
+  style: "default"  
+collapse: true 

@@ -1,0 +1,14 @@
+title: "Authentication / Security"
+icon: "lucide:lock"
+navigation:
+  title: "Authentication / Security"
+  redirect: /developer-guide/authentication-security/getting-api-tokens
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

@@ -1,0 +1,14 @@
+title: "Download for Browser Extension"
+icon: "lucide:chrome"
+navigation:
+  title: "Download for Browser Extension"
+  redirect: /download/browser/chrome
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

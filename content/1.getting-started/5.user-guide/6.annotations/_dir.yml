@@ -1,0 +1,6 @@
+title: "Annotations"
+icon: "lucide:sticky-note"
+navigation.redirect: /getting-started/user-guide/annotations/shapes-annotation
+sidebar:
+  style: "default"  
+collapse: true 

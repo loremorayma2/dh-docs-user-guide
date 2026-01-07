@@ -1,0 +1,14 @@
+title: "WebHooks Event System"
+icon: "lucide:zap"
+navigation:
+  title: "WebHooks Event System"
+  redirect: /developer-guide/webhook-event-system/subscribing-to-events
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

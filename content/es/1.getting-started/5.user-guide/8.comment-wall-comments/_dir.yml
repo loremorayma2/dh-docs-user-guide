@@ -1,0 +1,7 @@
+title: "Muro de Comentarios y Comentarios"
+icon: "lucide:messages-square"
+navigation:
+  redirect: /getting-started/user-guide/comment-wall-Comments/real-time-comments
+sidebar:
+  style: "default"
+  collapse: true

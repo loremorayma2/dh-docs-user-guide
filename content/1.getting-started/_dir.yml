@@ -1,0 +1,14 @@
+title: "Getting Started"
+icon: "lucide:rocket"
+navigation:
+  title: "Getting Started"
+  redirect: /getting-started/home
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools

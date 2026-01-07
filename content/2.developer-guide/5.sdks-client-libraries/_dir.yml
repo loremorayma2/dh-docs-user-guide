@@ -1,0 +1,14 @@
+title: "SDK Client Libraries"
+icon: "lucide:box"
+navigation:
+  title: "SDK Client Libraries"
+  redirect: /developer-guide/sdks-client-libraries/official-sdks
+
+sidebar:
+  style: "default"  
+  collapse: false 
+
+tags:
+  - features
+  - dot
+  - tools
