@@ -9,3 +9,50 @@ footer div {
   justify-content: center; 
 }
 
+
+
+.typing {
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+
+  max-width: 9ch;
+
+  animation: typing 3s steps(9, end) infinite;
+}
+
+/* cursor */
+.typing::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 10%;
+  height: 80%;
+  width: 2px;
+  background: currentColor;
+  animation: blink 0.8s step-end infinite;
+}
+
+@keyframes typing {
+  0% { max-width: 0 }
+  40% { max-width: 9ch }
+  60% { max-width: 9ch }
+  100% { max-width: 0 }
+}
+
+@keyframes blink {
+  50% { opacity: 0 }
+}
+
+.bg-timeline {
+  width: 100%;
+  background-image: url('/timeline_vertical.svg'); /* usa /public/assets para que funcione */
+  background-size: contain;       /* ocupa todo el div */
+  background-position: left;  /* centra la imagen */
+  background-repeat: no-repeat;
+}
+
+
+
+
