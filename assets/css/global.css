@@ -47,9 +47,9 @@ footer div {
 
 .bg-timeline {
   width: 100%;
-  background-image: url('/timeline_vertical.svg'); /* usa /public/assets para que funcione */
+  background-image: url('/arrow.svg'); /* usa /public/assets para que funcione */
   background-size: contain;       /* ocupa todo el div */
-  background-position: left;  /* centra la imagen */
+  background-position: center;  /* centra la imagen */
   background-repeat: no-repeat;
 }
 
