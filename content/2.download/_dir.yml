@@ -1,7 +1,7 @@
-title: "Download"
+title: "Install"
 icon: "lucide:download"
 navigation:
-  title: "Download"
+  title: "Install"
   redirect: /download/init
 
 sidebar:
